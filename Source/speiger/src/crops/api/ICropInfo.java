@@ -37,4 +37,5 @@ public interface ICropInfo
 	 * null means it get not implemented. So you can return null
 	 */
 	public ItemStack getDisplayItems(CropCard card);
+
 }
